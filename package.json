@@ -1,0 +1,20 @@
+{
+  "name": "Prototype__Calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddie0329/Prototype__Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddie0329/Prototype__Calculator/issues"
+  },
+  "homepage": "https://github.com/eddie0329/Prototype__Calculator#readme"
+}
